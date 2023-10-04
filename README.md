@@ -4,8 +4,10 @@
 
 Pizza Shop needs a very simple ordering system with just just 3 tables:
 
--Customer 
+-Customer  
+
 -Pizza  
+
 -Order  
 
 ```
