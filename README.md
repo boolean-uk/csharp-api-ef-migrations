@@ -4,11 +4,9 @@
 
 Pizza Shop needs a very simple ordering system with just just 3 tables:
 
--Customer  
+**Customer, Pizzas, Orders**
 
--Pizza  
-
--Order  
+A customer can order 1 pizza from the store.  
 
 ```
 -Add an appsettings.json file and connect to your database.  
